@@ -1,4 +1,4 @@
-# diacrictics-map [![NPM version](https://img.shields.io/npm/v/diacrictics-map.svg?style=flat)](https://www.npmjs.com/package/diacrictics-map) [![NPM monthly downloads](https://img.shields.io/npm/dm/diacrictics-map.svg?style=flat)](https://npmjs.org/package/diacrictics-map)  [![NPM total downloads](https://img.shields.io/npm/dt/diacrictics-map.svg?style=flat)](https://npmjs.org/package/diacrictics-map)
+# diacritics-map [![NPM version](https://img.shields.io/npm/v/diacritics-map.svg?style=flat)](https://www.npmjs.com/package/diacritics-map) [![NPM monthly downloads](https://img.shields.io/npm/dm/diacritics-map.svg?style=flat)](https://npmjs.org/package/diacritics-map)  [![NPM total downloads](https://img.shields.io/npm/dt/diacritics-map.svg?style=flat)](https://npmjs.org/package/diacritics-map)
 
 > Map of more than 1,200 diacritics and ligatures to english alphabet equivalents.
 
@@ -7,13 +7,13 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save diacrictics-map
+$ npm install --save diacritics-map
 ```
 
 ## Usage
 
 ```js
-var diacritics = require('diacrictics-map');
+var diacritics = require('diacritics-map');
 console.log(diacritics);
 // {
 //   ...
