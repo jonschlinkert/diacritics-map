@@ -1,12 +1,12 @@
 {
   "name": "diacritics-map",
-  "description": "Map of more than 1,200 diacritics and ligatures to english alphabet equivalents.",
+  "description": "Map of more than 1,200 diacritics and ligatures to English alphabet equivalents.",
   "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/diacrictics-map",
+  "homepage": "https://github.com/jonschlinkert/diacritics-map",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/diacrictics-map",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/diacrictics-map/issues"
+    "url": "https://github.com/jonschlinkert/diacritics-map/issues"
   },
   "license": "MIT",
   "files": [
